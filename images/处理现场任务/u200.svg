@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="14px" height="14px" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <mask fill="white" id="clip7">
+      <path d="M 2506.5 1009.5  C 2505.39 1009.5  2504.5 1008.61  2504.5 1007.5  L 2504.5 998.5  C 2504.5 997.39  2505.39 996.5  2506.5 996.5  L 2515.5 996.5  C 2516.61 996.5  2517.5 997.39  2517.5 998.5  L 2517.5 1007.5  C 2517.5 1008.61  2516.61 1009.5  2515.5 1009.5  L 2506.5 1009.5  " fill-rule="evenodd" />
+    </mask>
+  </defs>
+  <g transform="matrix(1 0 0 1 -2504 -996 )">
+    <image preserveAspectRatio="none" style="overflow:visible" width="14" height="14" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAAAXNSR0IArs4c6QAAA4FJREFUeAHtmd2LTVEYxvfxOci40IxyIXccUkIuXJEiFy78C8T9GHOBUoQ7o2lqbuQKf4AL06SUkiTCxYyhXChSSpHvlDl+j7PfOp35OHufs/Y5Z9X71m/WtGfttdfzvO9a+2OSxMMdcAfcAXfAHXAH3AF3wB1wB9wBd8AdiNqBSqWyGI7C9qxClmTtGEm/TczzCPTBi0jmHGaaZL0M4/AapmAIVjQafVGjDjH8HaFl5nkFNsBX+AMn4AAsGNEbUCN+I0p/QQmU+dvwABYMdY42EL+ZyQ+DMm/iV/H7OJwrlUo/aBeMaA1AvDa6MdgG30BaJP4RnET8F9qGEeUSQHw/yq7CFvgOEr8SnsHprOLpm0RnQJp5bXi7QGWvMPFDiP9YPZTtZ1RLIM281vwO+JlKlPjnoLLPJV7nR1MBdZmvFa+yz515iVdEUQFFZL4qP4IKKCrzZkBXV0CRmTcDunYPKDrzZkBXVkA7Mm8GZK4AJtULW+3Eotp2ZT7X/JlUD4zAY9iX6+QcnRm7H27CS3iaot9vwbocQ4XryoXXwjBMwyQ8hP3hrlAdiTH74Aa8glrxMmR96OvZeFmWwB46H4bfoEfP1XCBSe2lDRKMZc/2OxlQz/YKe8Ib5AnvQ/VQ+J9ZDLjLZcdgOai/Pjb0wiUm3nIlMIbe6uzZPtgTHmNmikx3ASYp4QNwDFQJf0GG6DX0LBm6T5s70swHfbbPO4ksFZAgcAaUpWvQAy1XQqczb0ZlqgDrHKoSGEc7ugytfavTZyx9yW3qrY7zmopcBtgVEKDlcBy0KVZAy0EfI/UZ6h7tvMG5a/jjKOwG2/AkfhIGOL+wDY/xZ0WmJTDrrCQZ4dh10MQ1hvaFhncHxGv5nAd9zDDxOvYOtJe0VTzXbO57ABPNvScgXt/rLsNBsN3exOtW94bjbY+mloDNElHKfsO7Q5p5E69q0bKR+Pc6H/HTtB2JlgywGSNwvj3hDH2ewEU4BMq8iVfZn0L8FG3HIpQBc1XCMlR9gregDU8PUCa+45lnLv8jiAE2WF0lzHB8KegfsCp7ha35jme+Op3A3wTn2BNkgkVXrHmbjLVBK8AGrasEK/uuWPM2x0JbVQIMgt7l9Ro9AeVCL9qNgyNa/6O/A4V/SWpWvzaoImOCwT9Dx+7zRYrzsd0Bd8AdcAfcAXfAHXAH3AF3wB1wB2J14B8b87djCRe6MwAAAABJRU5ErkJggg==" x="2504px" y="996px" mask="url(#clip7)" />
+    <path d="M 2506 1009.5  C 2505.1675 1009.5  2504.5 1008.8325  2504.5 1008  L 2504.5 998  C 2504.5 997.1675  2505.1675 996.5  2506 996.5  L 2516 996.5  C 2516.8325 996.5  2517.5 997.1675  2517.5 998  L 2517.5 1008  C 2517.5 1008.8325  2516.8325 1009.5  2516 1009.5  L 2506 1009.5  Z " stroke-width="1" stroke="#009966" fill="none" />
+  </g>
+</svg>
